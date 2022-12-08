@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "block math",
+    "shortcut": "",
+    "tag": [
+        "\\begin{equation}",
+        "\t%|",
+        "\\end{equation}"
+    ],
+    "trigger": "eqq"
+}
