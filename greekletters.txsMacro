@@ -1,0 +1,15 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "greek",
+    "shortcut": "",
+    "tag": [
+        "%SCRIPT",
+        "editor.insertSnippet(\"\\\\\"+triggerMatches[0]);"
+    ],
+    "trigger": "(alpha|beta|gamma|delta|Delta|zeta|theta|vartheta|phi|varphi|kappa|lambda|Sigma|sigma|tau|Omega|omega|varepsilon)"
+}

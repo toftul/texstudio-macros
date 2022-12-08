@@ -1,0 +1,14 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "subscript",
+    "shortcut": "",
+    "tag": [
+        "_{%|}"
+    ],
+    "trigger": "\\_"
+}
